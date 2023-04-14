@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma;
+}
+
+.baner {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+.glowny {
+    background-color: seashell;
+    height: 500px;
+    overflow-y:auto;
+}
+
+.skrypt1 {
+    background-color: white;
+    color: dimgray;
+    width:60%;
+    height:220px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 0px 0px 10px 5px dimgray;
+}
+img {
+    float: left;
+    width: 150px;
+    border-radius:10px;
+    margin: 10px;
+}
+blockquote {
+    padding: 10px;
+    font-size: 150%;
+    font-style: italic;
+}
+
+.pierwszyblokstopki {
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+    float:left;
+    text-align: left;
+}
+.drugiblokstopki {
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+    float:left;
+    text-align: left;
+}
+.trzeciblokstopki {
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+    float:left;
+    text-align: left;
+}
+.czwartyblokstopki {
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+    float:left;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: end;
+    margin-right: 40px;
+    font-size: 150%;
+    font-style: italic;
+}
+
+a {
+    color:white;
+}
